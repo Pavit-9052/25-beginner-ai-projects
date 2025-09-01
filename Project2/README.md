@@ -35,6 +35,3 @@ A simple AI-powered **text generation tool** built with Gradio. It uses **Ollama
 ## 📷 Example Output
 
 ![Output Screenshot](screenshot.png)
----
-
-Would you like me to also add a **“Future Improvements”** section (like export to PDF, support for more models, etc.) so your README looks more project-oriented and professional for recruiters?
